@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (..\..\bin\) contains files shared from another project (EasyPR.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+e:\12-myopensourceproject\16-platerecognition\_easypr\easypr-1.3_05\mfcdemo\include\easypr\util.h(10): warning C4005: 'OS_WINDOWS' : macro redefinition
+          c:\program files (x86)\windows kits\8.1\include\um\shlwapi.h(2024) : see previous definition of 'OS_WINDOWS'
+  MFCDemoDlg.cpp
+  MFCDemo.cpp
+  CvvImage.cpp
+  Generating Code...
+  MFCDemo.vcxproj -> E:\12-MyOpenSourceProject\16-PlateRecognition\_EasyPR\EasyPR-1.3_05\MFCDemo\..\..\bin\debug\MFCDemo.exe

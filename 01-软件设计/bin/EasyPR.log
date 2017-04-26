@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (..\bin\) contains files shared from another project (MFCDemo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  util.cpp
+  program_options.cpp
+  svm_train.cpp
+  ann_train.cpp
+  mc_data.cpp
+  gdts.cpp
+  deface.cpp
+  plate_recognize.cpp
+  plate_locate.cpp
+  plate_judge.cpp
+  plate_detect.cpp
+  plate.cpp
+  feature.cpp
+  core_func.cpp
+  chars_segment.cpp
+  chars_recognise.cpp
+  chars_identify.cpp
+  Generating Code...
+  EasyPR.vcxproj -> E:\12-MyOpenSourceProject\16-PlateRecognition\_EasyPR\EasyPR-1.3_05\..\bin\debug\libeasypr.lib
